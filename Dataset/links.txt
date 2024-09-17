@@ -1,0 +1,4 @@
+Global Air Quality Dataset - https://www.kaggle.com/datasets/waqi786/global-air-quality-dataset
+Real time air quality - https://www.kaggle.com/datasets/devendrasingh22/real-time-air-quality-index-from-various-locations
+Global Air Pollution data - https://www.kaggle.com/datasets/sazidthe1/global-air-pollution-data
+
