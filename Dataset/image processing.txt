@@ -1,0 +1,7 @@
+real images vs ai generated ai
+https://www.kaggle.com/datasets/cashbowman/ai-generated-images-vs-real-images
+https://chatgpt.com/share/66f6abe8-bad4-8007-ae3d-f0c0919babe8
+
+hand written letters
+https://www.kaggle.com/datasets/hojjatk/mnist-dataset
+https://chatgpt.com/share/66f6a90c-ca84-8007-aa9b-fe1c68bcb46e
